@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032136127638",
+    "project_id": "otp-authentication-ca307",
+    "storage_bucket": "otp-authentication-ca307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032136127638:android:f0b9ac7fe277d2887e7eb7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_phone_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsT6q5nvO5-MdZ2bQITI9acmPSnIPZ6SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
